@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# netcr
+# Netcracker Landing Demo project.
 
-> testTask
+> Used Vue.js, stylus;
 
 ## Build Setup
 
